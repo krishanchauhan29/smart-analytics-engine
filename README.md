@@ -19,17 +19,6 @@ An AI-powered business analytics engine that automatically analyzes any business
 - **Reports** — XlsxWriter, ReportLab
 - **Deployment** — Streamlit
 
-## 📁 Project Structure
-smart-analytics-engine/
-├── dashboard/
-│   └── app.py              # Main Streamlit app
-├── notebooks/              # EDA notebooks
-├── data/                   # Sample datasets
-├── reports/                # Generated reports
-├── src/                    # Helper scripts
-├── requirements.txt
-└── README.md
-
 ## 🚀 Run Locally
 ```bash
 git clone https://github.com/krishanchauhan29/smart-analytics-engine.git
