@@ -3,7 +3,7 @@
 An AI-powered business analytics engine that automatically analyzes any business dataset — EDA, interactive visualizations, ML predictions, and downloadable reports in one click.
 
 ## 🔴 Live Demo
-👉 [Click here to try the live app]([STREAMLIT_LINK_YAHAN_PASTE_KARO])
+👉 [Click here to try the live app](https://smart-analytics-engine292003.streamlit.app/)
 
 ## ✨ Features
 - 📂 **Multi-format Input** — CSV, Excel, PDF (digital tables), Image (OCR)
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 streamlit run dashboard/app.py
 ```
 
-## 👤 Author
+## Built By 👤 
 **Krishan Kumar Chauhan**
 M.Tech Data Science | Gautam Buddha University
 [LinkedIn](https://www.linkedin.com/in/krishan-chauhan-714011232/) | [GitHub](https://github.com/krishanchauhan29)
